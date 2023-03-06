@@ -18,4 +18,4 @@ To get started, clone this repository and cd into the directory:
 
 `cd auto-approve-bot`
 
-`python3 bot py`
+`python3 bot.py`
