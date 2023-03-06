@@ -4,13 +4,10 @@ This is a Pyrogram bot that automatically approves join requests for a Telegram 
 ## Setup
 To use this bot, you'll need to have the following:
 
-•A Telegram account
-
-•Python 3.x installed on your computer
-
-•A Telegram bot token obtained from the BotFather
-
-•The pyrogram library installed (you can do this by running `pip install pyrogram`)
+-A Telegram account
+-Python 3.x installed on your computer
+-A Telegram bot token obtained from the BotFather
+-The pyrogram library installed (you can do this by running `pip install pyrogram`)
 
 
 To get started, clone this repository and cd into the directory:
