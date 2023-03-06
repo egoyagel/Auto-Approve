@@ -10,7 +10,7 @@ To use this bot, you'll need to have the following:
 
 •A Telegram bot token obtained from the BotFather
 
-•The `pyrogram` library installed (you can do this by running `pip install pyrogram`)
+•The pyrogram library installed (you can do this by running `pip install pyrogram`)
 
 
 To get started, clone this repository and cd into the directory:
@@ -19,3 +19,6 @@ To get started, clone this repository and cd into the directory:
 `cd auto-approve-bot`
 
 `python3 bot.py`
+
+## Usage
+To toggle auto-approval, send a private message to the bot with the command `/autoapprove on` or `/autoapprove off`, depending on whether you want to turn auto-approval on or off. Only group admins can toggle this feature.
