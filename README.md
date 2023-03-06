@@ -22,4 +22,4 @@ To get started, clone this repository and cd into the directory:
 ```
 
 ## Usage
-To toggle auto-approval, send a private message to the bot with the command `/autoapprove on` or `/autoapprove off`, depending on whether you want to turn auto-approval on or off. Only group admins can toggle this feature.
+To toggle auto-approval, send a message to the bot with the command `/autoapprove on` or `/autoapprove off`, depending on whether you want to turn auto-approval on or off. Only group admins can toggle this feature.
