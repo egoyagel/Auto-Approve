@@ -10,6 +10,6 @@ To use this bot, you'll need to have the following:
 •The `pyrogram` library installed (you can do this by running `pip install pyrogram`)
 
 To get started, clone this repository and cd into the directory:
-`git clone https://github.com/irymee/auto-approve-bot.git
-cd auto-approve-bot
-python3 bot py`
+`git clone https://github.com/irymee/auto-approve-bot.git`
+`cd auto-approve-bot`
+`python3 bot py`
