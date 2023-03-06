@@ -14,11 +14,12 @@ To use this bot, you'll need to have the following:
 
 
 To get started, clone this repository and cd into the directory:
-`git clone https://github.com/irymee/auto-approve-bot.git`
 
-`cd auto-approve-bot`
-
-`python3 bot.py`
+```bash
+  git clone https://github.com/irymee/auto-approve.git
+  cd auto-approve
+  python3 bot.py
+```
 
 ## Usage
 To toggle auto-approval, send a private message to the bot with the command `/autoapprove on` or `/autoapprove off`, depending on whether you want to turn auto-approval on or off. Only group admins can toggle this feature.
