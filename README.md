@@ -16,8 +16,8 @@ To use this bot, you'll need to have the following:
 To get started, clone this repository and cd into the directory:
 
 ```bash
-  git clone https://github.com/irymee/auto-approve.git
-  cd auto-approve
+  git clone https://github.com/irymee/Auto-Approve.git
+  cd Auto-Approve
   python3 bot.py
 ```
 
