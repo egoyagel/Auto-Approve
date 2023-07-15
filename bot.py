@@ -2,10 +2,10 @@ from pyrogram import Client, filters
 from pyrogram.types import *
 import os
 
-CHAT_ID = os.getenv("CHAT_ID")
-API_ID = os.getenv("API_ID")
-API_HASH = os.getenv("API_HASH")
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+CHAT_ID = os.getenv("-1001842902572")
+API_ID = os.getenv("23776178")
+API_HASH = os.getenv("b69598ab1d4021eb968d2db5b8bed30a")
+BOT_TOKEN = os.getenv("6323849431:AAHX8uFm54ZkJcSD2hmnoLlxO1lvLaunP3A")
 
 app = Client(bot_token=BOT_TOKEN, api_id=API_ID, api_hash=API_HASH)
 
